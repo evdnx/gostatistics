@@ -1,3 +1,3 @@
 module github.com/evdnx/gostatistics
 
-go 1.22
+go 1.25
